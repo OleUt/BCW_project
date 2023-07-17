@@ -1,9 +1,9 @@
-### BCW PROJECT
-Breast Cancer Wisconsin Diagnostic Dataset, classification Malignant (cancer) vs Benign (non cancer) Tumors.
-569 samples, 30 features (morphology data on tumors: mean value (10), standard error of mean (10), the worst feature value (10)
+## BCW PROJECT
+- Breast Cancer Wisconsin Diagnostic Dataset, classification Malignant (cancer) vs Benign (non cancer) Tumors.
+- 569 samples, 30 features (morphology data on tumors: mean value (10), standard error of mean (10), the worst feature value (10)
 
 #### input file:
-BCW_dataset.csv
+- BCW_dataset.csv
 
 #### BCW_data_preprocesssing.ipynb:
 - selection of the best features
