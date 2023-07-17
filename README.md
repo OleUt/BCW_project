@@ -20,6 +20,6 @@
 
 #### BC_prediction(n).csv:
 contains results from the best classification models (LDA, QDA, Stack):
-- prediction (B or M), marked with * for P>0.99 and ** for P>0.999 
 - probability for B
 - probability for M
+- prediction (B or M), marked with * for P>0.99 and ** for P>0.999 
